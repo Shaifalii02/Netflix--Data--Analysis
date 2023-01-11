@@ -1,0 +1,43 @@
+﻿unique_genre_list,movie_count,tv_shows_count
+Children & Family Movies,378,NULL
+Anime Features,45,NULL
+Thrillers,392,NULL
+Comedies,1113,NULL
+Music & Musicals,243,NULL
+International Movies,1927,NULL
+Independent Movies,552,NULL
+Dramas,1623,NULL
+Classic Movies,84,NULL
+Horror Movies,262,NULL
+Cult Movies,55,NULL
+Sports Movies,157,NULL
+Movies,56,NULL
+Romantic Movies,376,NULL
+Stand-Up Comedy,281,NULL
+Faith & Spirituality,47,NULL
+Sci-Fi & Fantasy,193,NULL
+Action & Adventure,597,NULL
+Documentaries,668,NULL
+LGBTQ Movies,60,NULL
+TV Horror,NULL,54
+British TV Shows,NULL,210
+Stand-Up Comedy & Talk Shows,NULL,42
+TV Dramas,NULL,599
+TV Sci-Fi & Fantasy,NULL,68
+Romantic TV Shows,NULL,278
+Crime TV Shows,NULL,363
+International TV Shows,NULL,1001
+TV Comedies,NULL,436
+Science & Nature TV,NULL,67
+TV Thrillers,NULL,44
+Teen TV Shows,NULL,44
+Kids' TV,NULL,328
+Docuseries,NULL,279
+TV Shows,NULL,10
+TV Action & Adventure,NULL,126
+Anime Series,NULL,117
+Spanish-Language TV Shows,NULL,117
+Reality TV,NULL,153
+TV Mysteries,NULL,69
+Classic & Cult TV,NULL,24
+Korean TV Shows,NULL,132

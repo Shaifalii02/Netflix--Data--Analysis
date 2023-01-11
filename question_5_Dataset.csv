@@ -1,0 +1,321 @@
+﻿genre,rating,count
+Dramas,NULL,0
+Movies,NULL,0
+Independent Movies,G,1
+Sci-Fi & Fantasy,G,2
+International Movies,NC-17,1
+Comedies,NR,32
+Cult Movies,NR,5
+Sci-Fi & Fantasy,NR,4
+TV Comedies,NR,2
+TV Dramas,NR,5
+TV Sci-Fi & Fantasy,NR,1
+British TV Shows,PG,1
+Music & Musicals,PG,8
+Classic Movies,R,21
+Documentaries,R,17
+Classic & Cult TV,TV-G,1
+Science & Nature TV,TV-G,11
+International TV Shows,TV-MA,409
+Korean TV Shows,TV-MA,22
+Dramas,TV-PG,161
+TV Mysteries,TV-PG,2
+Spanish-Language TV Shows,TV-Y,2
+Dramas,TV-Y7,3
+Movies,TV-Y7,9
+TV Action & Adventure,TV-Y7-FV,7
+Documentaries,G,6
+Crime TV Shows,NR,4
+Stand-Up Comedy & Talk Shows,NR,1
+Classic Movies,PG,11
+Anime Features,PG-13,4
+Thrillers,PG-13,29
+Horror Movies,R,66
+International TV Shows,R,1
+Music & Musicals,R,10
+Independent Movies,TV-14,98
+Crime TV Shows,TV-G,1
+Sports Movies,TV-G,7
+Teen TV Shows,TV-G,2
+Crime TV Shows,TV-MA,228
+Sports Movies,TV-MA,40
+TV Action & Adventure,TV-MA,53
+British TV Shows,TV-PG,48
+Classic Movies,TV-PG,13
+Horror Movies,TV-PG,1
+LGBTQ Movies,TV-PG,7
+Music & Musicals,TV-Y7,2
+Action & Adventure,UR,2
+Comedies,NC-17,1
+British TV Shows,NR,5
+International TV Shows,NR,8
+Sci-Fi & Fantasy,PG,14
+Horror Movies,PG-13,23
+Comedies,R,118
+Crime TV Shows,TV-14,123
+Reality TV,TV-14,45
+Dramas,TV-G,7
+Spanish-Language TV Shows,TV-G,2
+Comedies,TV-MA,248
+Horror Movies,TV-MA,125
+Independent Movies,TV-MA,220
+Movies,TV-MA,8
+Romantic Movies,TV-MA,71
+TV Comedies,TV-MA,163
+TV Sci-Fi & Fantasy,TV-PG,16
+Crime TV Shows,TV-Y7,1
+TV Dramas,TV-Y7,1
+TV Sci-Fi & Fantasy,TV-Y7-FV,5
+International TV Shows,NULL,0
+Anime Series,NR,1
+Docuseries,NR,4
+Dramas,NR,91
+LGBTQ Movies,NR,5
+Music & Musicals,NR,5
+Anime Features,PG,1
+Romantic Movies,PG,13
+Documentaries,PG-13,16
+International Movies,PG-13,38
+Cult Movies,R,29
+Sci-Fi & Fantasy,R,31
+Comedies,TV-14,327
+Romantic Movies,TV-14,138
+TV Dramas,TV-14,255
+TV Sci-Fi & Fantasy,TV-14,34
+Faith & Spirituality,TV-G,1
+Classic Movies,TV-MA,5
+Documentaries,TV-MA,198
+Sci-Fi & Fantasy,TV-PG,5
+Kids' TV,TV-Y7-FV,68
+Korean TV Shows,TV-Y7-FV,3
+International Movies,UR,4
+Anime Series,NULL,0
+Action & Adventure,G,1
+Classic Movies,G,7
+Movies,NR,2
+Romantic TV Shows,NR,2
+TV Mysteries,NR,1
+Comedies,PG,95
+Independent Movies,PG,3
+Romantic Movies,R,28
+Faith & Spirituality,TV-14,19
+LGBTQ Movies,TV-14,5
+Sci-Fi & Fantasy,TV-14,25
+Comedies,TV-G,18
+TV Comedies,TV-G,25
+Anime Features,TV-MA,6
+Anime Series,TV-MA,30
+Faith & Spirituality,TV-PG,12
+Independent Movies,TV-PG,24
+Romantic Movies,TV-PG,65
+TV Comedies,TV-PG,52
+International Movies,TV-Y,1
+Children & Family Movies,TV-Y7,57
+Kids' TV,NULL,0
+Documentaries,NR,38
+Cult Movies,PG,1
+LGBTQ Movies,PG-13,4
+Action & Adventure,R,124
+Sports Movies,R,11
+Docuseries,TV-14,73
+Korean TV Shows,TV-14,78
+Sports Movies,TV-14,39
+TV Comedies,TV-14,138
+Classic Movies,TV-G,2
+Movies,TV-G,5
+Romantic Movies,TV-G,3
+Romantic TV Shows,TV-G,1
+Romantic TV Shows,TV-MA,53
+Spanish-Language TV Shows,TV-MA,72
+Stand-Up Comedy & Talk Shows,TV-MA,24
+Classic & Cult TV,TV-PG,9
+Crime TV Shows,TV-PG,4
+Science & Nature TV,TV-PG,35
+Stand-Up Comedy,TV-PG,6
+Thrillers,TV-PG,4
+TV Shows,TV-PG,1
+Anime Series,TV-Y7-FV,3
+TV Thrillers,TV-Y7-FV,2
+Dramas,UR,5
+Romantic Movies,UR,3
+Children & Family Movies,G,28
+Classic & Cult TV,NR,1
+Independent Movies,NR,38
+Sports Movies,NR,8
+Dramas,PG,38
+International Movies,PG,11
+Stand-Up Comedy,PG,1
+Comedies,PG-13,103
+Cult Movies,PG-13,10
+Faith & Spirituality,PG-13,5
+Romantic Movies,PG-13,44
+Sci-Fi & Fantasy,PG-13,64
+Classic Movies,TV-14,12
+International Movies,TV-14,737
+Thrillers,TV-14,76
+British TV Shows,TV-G,14
+International Movies,TV-G,22
+Dramas,TV-MA,495
+TV Dramas,TV-MA,276
+Korean TV Shows,TV-PG,9
+Reality TV,TV-PG,52
+Anime Series,TV-Y7,13
+Documentaries,TV-Y7,1
+Reality TV,TV-Y7,1
+Children & Family Movies,TV-Y7-FV,24
+Comedies,UR,2
+Dramas,G,2
+Teen TV Shows,NR,1
+Documentaries,PG,15
+Action & Adventure,PG-13,100
+Sports Movies,PG-13,14
+LGBTQ Movies,R,8
+Children & Family Movies,TV-14,14
+Documentaries,TV-14,200
+Horror Movies,TV-14,36
+Romantic TV Shows,TV-14,182
+Docuseries,TV-G,25
+Stand-Up Comedy,TV-G,1
+TV Action & Adventure,TV-G,1
+TV Dramas,TV-G,4
+TV Shows,TV-G,2
+Classic & Cult TV,TV-MA,7
+Docuseries,TV-MA,99
+International Movies,TV-MA,693
+Stand-Up Comedy,TV-MA,221
+Music & Musicals,TV-PG,43
+Romantic TV Shows,TV-PG,40
+TV Thrillers,TV-PG,1
+Movies,TV-Y,12
+Music & Musicals,TV-Y,1
+TV Thrillers,TV-Y,1
+Independent Movies,TV-Y7,1
+LGBTQ Movies,TV-Y7,1
+TV Thrillers,TV-Y7,2
+Action & Adventure,TV-Y7-FV,1
+British TV Shows,TV-Y7-FV,1
+International Movies,G,1
+Kids' TV,G,1
+International Movies,NR,102
+Action & Adventure,PG,19
+Reality TV,PG,1
+Classic Movies,PG-13,9
+Dramas,PG-13,103
+Music & Musicals,PG-13,9
+Stand-Up Comedy,R,6
+Thrillers,R,100
+TV Dramas,R,1
+TV Shows,R,1
+Anime Features,TV-14,17
+Classic & Cult TV,TV-14,6
+TV Shows,TV-14,4
+Music & Musicals,TV-G,7
+Cult Movies,TV-MA,3
+Sci-Fi & Fantasy,TV-MA,44
+Action & Adventure,TV-PG,13
+Anime Features,TV-PG,3
+Anime Series,TV-PG,13
+Docuseries,TV-PG,77
+Sports Movies,TV-PG,23
+Teen TV Shows,TV-PG,12
+TV Dramas,TV-PG,57
+Docuseries,TV-Y,1
+Science & Nature TV,TV-Y,1
+TV Action & Adventure,TV-Y7,2
+Movies,TV-Y7-FV,3
+Independent Movies,UR,1
+TV Comedies,NULL,0
+Action & Adventure,NR,25
+Anime Features,NR,11
+Classic Movies,NR,4
+Spanish-Language TV Shows,NR,1
+Children & Family Movies,PG-13,10
+Dramas,R,251
+Action & Adventure,TV-14,141
+Anime Series,TV-14,55
+British TV Shows,TV-14,50
+Movies,TV-14,3
+Stand-Up Comedy & Talk Shows,TV-14,11
+Teen TV Shows,TV-14,16
+TV Action & Adventure,TV-14,41
+TV Thrillers,TV-14,13
+Documentaries,TV-G,36
+International TV Shows,TV-G,16
+Reality TV,TV-G,9
+LGBTQ Movies,TV-MA,30
+TV Sci-Fi & Fantasy,TV-MA,12
+TV Shows,TV-MA,2
+Documentaries,TV-PG,141
+International TV Shows,TV-PG,123
+Kids' TV,TV-PG,29
+Children & Family Movies,TV-Y,28
+Comedies,TV-Y,2
+Sci-Fi & Fantasy,TV-Y,1
+TV Comedies,TV-Y,10
+Anime Features,TV-Y7,3
+British TV Shows,TV-Y7,5
+International Movies,TV-Y7,2
+International TV Shows,TV-Y7,2
+Comedies,TV-Y7-FV,7
+Sci-Fi & Fantasy,TV-Y7-FV,2
+TV Comedies,TV-Y7-FV,9
+Independent Movies,NC-17,2
+Stand-Up Comedy,NR,21
+TV Action & Adventure,NR,4
+Children & Family Movies,PG,122
+Faith & Spirituality,PG,10
+Horror Movies,PG,1
+Sports Movies,PG,14
+Independent Movies,R,141
+Cult Movies,TV-14,3
+Music & Musicals,TV-14,87
+Spanish-Language TV Shows,TV-14,31
+TV Horror,TV-14,17
+TV Mysteries,TV-14,29
+Children & Family Movies,TV-G,36
+Independent Movies,TV-G,2
+Action & Adventure,TV-MA,171
+British TV Shows,TV-MA,78
+Reality TV,TV-MA,45
+Science & Nature TV,TV-MA,8
+Teen TV Shows,TV-MA,13
+Thrillers,TV-MA,168
+Children & Family Movies,TV-PG,59
+Comedies,TV-PG,128
+Cult Movies,TV-PG,4
+Spanish-Language TV Shows,TV-PG,9
+Anime Series,TV-Y,1
+British TV Shows,TV-Y,8
+Kids' TV,TV-Y,102
+Korean TV Shows,TV-Y,8
+Comedies,TV-Y7,22
+Sci-Fi & Fantasy,TV-Y7,1
+TV Comedies,TV-Y7,36
+Comedies,G,10
+Music & Musicals,G,4
+Dramas,NC-17,1
+Horror Movies,NR,10
+Romantic Movies,NR,11
+Thrillers,NR,15
+Independent Movies,PG-13,21
+International Movies,R,84
+TV Thrillers,R,1
+Dramas,TV-14,465
+International TV Shows,TV-14,441
+Science & Nature TV,TV-14,12
+Stand-Up Comedy,TV-14,25
+Kids' TV,TV-G,30
+Korean TV Shows,TV-G,1
+Stand-Up Comedy & Talk Shows,TV-G,2
+Music & Musicals,TV-MA,67
+TV Horror,TV-MA,37
+TV Mysteries,TV-MA,37
+TV Thrillers,TV-MA,24
+International Movies,TV-PG,231
+Movies,TV-PG,7
+Stand-Up Comedy & Talk Shows,TV-PG,4
+TV Action & Adventure,TV-PG,18
+Kids' TV,TV-Y7,97
+Korean TV Shows,TV-Y7,11
+Sports Movies,TV-Y7,1
+Crime TV Shows,TV-Y7-FV,2
